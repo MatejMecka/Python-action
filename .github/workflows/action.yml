@@ -12,7 +12,7 @@ jobs:
     - name: Greet the coder
       uses: ./
       with:
-        MY_NAME: "Matej"
+        MY_NAME: "Matej "
     - name: Set up Python 3.8
       uses: actions/setup-python@v1
       with:
